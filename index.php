@@ -20,7 +20,7 @@ include_once("connect.php");
         <div class="container">
             <div class="navbar">
                 <div class="logo">
-                    <a href="index.php"><img src="./images/logo-1.png" width="125px"></a>
+                    <a href="index.php"><img src="./images/Logo-1.png" width="125px"></a>
                 </div>
                 <nav>
                     <ul id="MenuItems">
